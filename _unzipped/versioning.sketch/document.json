@@ -1,0 +1,53 @@
+{
+    "_class": "document",
+    "do_objectID": "A0426F21-95BC-4CD6-92F4-19085D587462",
+    "colorSpace": 0,
+    "currentPageIndex": 0,
+    "userInfo": {
+        "com.invisionlabs.sync": {
+            "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+        }
+    },
+    "assets": {
+        "_class": "assetCollection",
+        "do_objectID": "2E68855F-5226-4819-8201-034B4BC68AEA",
+        "images": [],
+        "colorAssets": [],
+        "exportPresets": [],
+        "gradientAssets": [],
+        "imageCollection": {
+            "_class": "imageCollection",
+            "images": {}
+        },
+        "colors": [],
+        "gradients": []
+    },
+    "fontReferences": [],
+    "foreignLayerStyles": [],
+    "foreignSymbols": [],
+    "foreignTextStyles": [],
+    "layerStyles": {
+        "_class": "sharedStyleContainer",
+        "objects": []
+    },
+    "layerSymbols": {
+        "_class": "symbolContainer",
+        "objects": []
+    },
+    "layerTextStyles": {
+        "_class": "sharedTextStyleContainer",
+        "objects": []
+    },
+    "pages": [
+        {
+            "_class": "MSJSONFileReference",
+            "_ref_class": "MSImmutablePage",
+            "_ref": "pages/02D9DFF7-683C-46F6-B32C-1914784FB4D4"
+        },
+        {
+            "_class": "MSJSONFileReference",
+            "_ref_class": "MSImmutablePage",
+            "_ref": "pages/7DF8B5F9-0638-4937-B9B9-B54BAF129F9D"
+        }
+    ]
+}
