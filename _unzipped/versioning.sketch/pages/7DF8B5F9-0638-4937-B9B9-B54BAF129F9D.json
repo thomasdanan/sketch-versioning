@@ -161,11 +161,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 900,
-                "offersLandscapeVariant": 0,
-                "name": "mac 15",
                 "width": 1440,
-                "allowResizedMatching": 0
+                "offersLandscapeVariant": 0,
+                "height": 900,
+                "allowResizedMatching": 0,
+                "name": "mac 15"
             },
             "resizesContent": false,
             "backgroundColor": {

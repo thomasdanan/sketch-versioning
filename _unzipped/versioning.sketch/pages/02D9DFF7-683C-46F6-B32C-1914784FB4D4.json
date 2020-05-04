@@ -389,11 +389,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 900,
-                "offersLandscapeVariant": 0,
-                "name": "mac 15",
                 "width": 1440,
-                "allowResizedMatching": 0
+                "offersLandscapeVariant": 0,
+                "height": 900,
+                "allowResizedMatching": 0,
+                "name": "mac 15"
             },
             "resizesContent": false,
             "backgroundColor": {
@@ -503,7 +503,7 @@
                     "isLocked": false,
                     "isVisible": true,
                     "layerListExpandedType": 0,
-                    "name": "thomas",
+                    "name": "thomas Danan",
                     "nameIsFixed": false,
                     "resizingConstraint": 63,
                     "resizingType": 0,
@@ -647,12 +647,12 @@
                     },
                     "attributedString": {
                         "_class": "attributedString",
-                        "string": "thomas",
+                        "string": "thomas Danan",
                         "attributes": [
                             {
                                 "_class": "stringAttribute",
                                 "location": 0,
-                                "length": 6,
+                                "length": 12,
                                 "attributes": {
                                     "MSAttributedStringFontAttribute": {
                                         "_class": "fontDescriptor",
@@ -679,7 +679,7 @@
                     },
                     "automaticallyDrawOnUnderlyingPath": false,
                     "dontSynchroniseWithSymbol": false,
-                    "glyphBounds": "{{333, 7}, {138, 32}}",
+                    "glyphBounds": "{{266, 7}, {270, 32}}",
                     "lineSpacingBehaviour": 2,
                     "textBehaviour": 2
                 }
@@ -689,11 +689,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 1080,
-                "offersLandscapeVariant": 0,
-                "name": "slide deck",
                 "width": 1920,
-                "allowResizedMatching": 0
+                "offersLandscapeVariant": 0,
+                "height": 1080,
+                "allowResizedMatching": 0,
+                "name": "slide deck"
             },
             "resizesContent": false,
             "backgroundColor": {
