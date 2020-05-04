@@ -1,0 +1,46 @@
+{
+    "commit": "b418af20cf32c3cfee9be7020e1f71a22b653a46",
+    "pagesAndArtboards": {
+        "7DF8B5F9-0638-4937-B9B9-B54BAF129F9D": {
+            "name": "Page 2",
+            "artboards": {
+                "2C934AF0-4E33-4FE5-A032-00363E925890": {
+                    "name": "mac 15"
+                }
+            }
+        },
+        "02D9DFF7-683C-46F6-B32C-1914784FB4D4": {
+            "name": "Page 1",
+            "artboards": {
+                "1B115D1F-F028-4031-AEDB-5955CF0E57E9": {
+                    "name": "slide deck"
+                },
+                "C2A02CFD-ACAA-49E0-9EC5-B796B1E576C3": {
+                    "name": "mac 15"
+                }
+            }
+        }
+    },
+    "version": 127,
+    "fonts": [
+        "GujaratiSangamMN-Bold"
+    ],
+    "compatibilityVersion": 99,
+    "app": "com.bohemiancoding.sketch3",
+    "autosaved": 0,
+    "variant": "NONAPPSTORE",
+    "created": {
+        "commit": "b418af20cf32c3cfee9be7020e1f71a22b653a46",
+        "appVersion": "65",
+        "build": 95493,
+        "app": "com.bohemiancoding.sketch3",
+        "compatibilityVersion": 99,
+        "version": 127,
+        "variant": "NONAPPSTORE"
+    },
+    "saveHistory": [
+        "NONAPPSTORE.95493"
+    ],
+    "appVersion": "65",
+    "build": 95493
+}
